@@ -15,7 +15,7 @@ DIM='\033[2m'
 X='\033[0m'
 
 INSTALL_DIR="$HOME/hccrmax"
-REPO_RAW="https://raw.githubusercontent.com/hccrmax/hccrmax-login/main"
+REPO_RAW="https://raw.githubusercontent.com/LPMOD/Getpass/main"
 
 TW=$(tput cols 2>/dev/null || echo 50)
 [ "$TW" -gt 58 ] && TW=58
